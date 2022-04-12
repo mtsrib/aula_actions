@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Meu exemplo React com Github Actions
+          Meu exemplo React com Github Actions - New Workflow
         </p>
         <a
           className="App-link"
